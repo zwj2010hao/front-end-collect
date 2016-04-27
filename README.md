@@ -1,7 +1,7 @@
-前端收集
+Guide For FE
 =================
 
-基于[repro](https://github.com/foru17/front-end-collect)
+Based on[repro](https://github.com/foru17/front-end-collect)
 
 ====
 #### 聚合&&周报订阅
@@ -21,10 +21,9 @@
 |SegmentFault精选 |http://segmentfault.com/|国内开发者技术问答社区每周精选问答|
 | 碼天狗週刊 |http://weekly.codetengu.com/|台湾的，一份開發者導向的IT 技術週刊，適合所有患有資訊焦慮症、氣血循環不順以及性受挫的軟體工程師們。|
 |奇舞周刊|http://old.75team.com/weekly/|领略前端技术 阅读奇舞周刊|
+|编程狂人周刊|http://www.tuicool.com/mags|#|
 
 #### 专业博客
-
-注:此处`活跃度`为博客更新频率，`原创度`指的是作者原创或者翻译的文章所占博文比例。请尊重原创，大量转载其他网站资讯的网站和聚合类网站不做推荐。
 
 ###### 中文博客
 |名称 |活跃度 | 原创度 | 维护者|其他|
@@ -34,12 +33,10 @@
 |[前端观察](http://www.qianduan.net/)|★★★★☆|★★★★☆|腾讯 ISUX @神飞|曾经最优秀，最近更新不频繁了|
 |[腾讯web前端 AlloyTeam 团队](http://www.alloyteam.com/)|★★★★|★★★★|[@腾讯AlloyTeam](http://t.qq.com/AlloyTeam)|来自于腾讯SNG(社交网络事业群)|
 |[张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/)|★★★★☆|★★★★★|张鑫旭|重构很厉害，不少经典文章经验|
-
 |[CSS森林](http://www.cssforest.org/blog/)|★★★★☆|★★★★☆|[关于](http://www.cssforest.org/blog/index.php?s=about)|#|
-
 |[阮一峰博客](http://www.ruanyifeng.com/blog/)|★★★★☆|★★★☆☆|[#](http://www.ruanyifeng.com/about.html)|牛人一个|
 
-##### 企业官方博客
+##### 企业官方博客 更过[UED博客](http://www.whycss.com/#J6)
 
 
 |名称 |公司 | 部门|活跃度 | 简介|微博|
@@ -58,7 +55,13 @@
 | [网易用户体验设计中心](http://uedc.163.com/) | 网易 |   UED| ★★★★☆|简介（设计 |[#](http://weibo.com/sudc)|
 | [阿里巴巴（中国站）用户体验设计部博客](http://www.aliued.cn/) | 阿里巴巴 |   UED| ★★★★☆|简介（设计 |[@Alibaba-UED](http://weibo.com/aliued)|
 
-
+###资料库以及其他Guide
+|名称 |link |
+| ----- | ----- |
+|醉牛前端|http://f2er.club/|
+|前端网址导航whycss|http://www.whycss.com/#J6|
+|[JS资料库](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects)  | 上面总结 很多新方法| 
+| [css资料库](http://www.css88.com/book/css/properties/background/background-attachment.htm)  | 全  | 
 
 ######国外博客
 |名称 |活跃度 | 原创度 | 维护者|其他|
@@ -180,4 +183,4 @@
 ##关于
 ======
 
-本 repo 会 不断更新，感谢推荐和分享新资源的朋友。
+本 repo 会 不断更新
