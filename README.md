@@ -1,26 +1,9 @@
 前端收集
 =================
 
-在前端路上摸索前行，在这里分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者。欢迎更新，以下各排名不分先后顺序。
-
-自己 RSS 长期订阅了一些IT 和技术相关博客，这里是我Feedly 输出的opml，可直接导入一些RSS 阅读器:
-https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
+基于[repro](https://github.com/foru17/front-end-collect)
 
 ====
-
-#### [前端收集图谱](http://get-set.cn/front-end-collect/)
-
-此部分为[@jikeytang ](https://github.com/jikeytang)贡献
-
-- clone https://github.com/hjzheng/front-end-collect
-- cd front-end-collect
-- bower install
-- 放入你喜欢的web容器,访问index.html即可
-- 你也直接可以访问: http://get-set.cn/front-end-collect/
-- 支持Chrome, Firefox and IE10&11以上浏览器
-
-![image](https://raw.githubusercontent.com/hjzheng/front-end-collect/master/img/front-end-chart.png)
-
 #### 聚合&&周报订阅
 
 |名称 |订阅地址 | 介绍 |
@@ -30,24 +13,14 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |CSS Weekly|http://css-weekly.com/| |
 |Javascript Weekly|http://javascriptweekly.com/|JS相关，同样有 html,css 和工具相关|
 |Web Design Weekly| http://web-design-weekly.com/ | 设计、技术、技巧、工具聚合|
-|UX Weekly|http://uxwkly.com/|用户体验、网页设计推送|
-|Web Tools Weekly|http://webtoolsweekly.com/|Js，工具推送|
-|RESPONSIVE DESIGN NEWSLETTER|http://responsivedesignweekly.com/|每周推送一次响应式设计相关|
-|Tutorialzine|http://tutorialzine.com/|精品教程和资源推送|
-|Sidebar|http://sidebar.io/|每天、每半周、每周推送5条设计相关|
-|The Hacker News Newsletter|http://www.hackernewsletter.com/|HN 每周精选|
-|Design News|https://news.layervault.com/|F2类资讯聚合|
+|Tutorialzine|http://tutorialzine.com/|精品教程和资源推送(recommend)|
 |Css Animations|http://cssanimation.rocks/|关于CSS动画的订阅
-|HACKDESIGN|http://hackdesign.org/|每周发布一个设计类课程|
+|EchoJs_News|http://www.echojs.com/|每天推送若干好文，都是英文的，JS技术类|
 |**中文推送**|||
 |稀土:掘金|http://gold.xitu.io/|国内十分用心的开发者技术分享、交流平台|
 |SegmentFault精选 |http://segmentfault.com/|国内开发者技术问答社区每周精选问答|
-|FE Weekly|http://www.feweekly.com/|每周一次，内容主要是英文的，不过有中文导读
-|EchoJs_News|http://www.echojs.com/|每天推送若干好文，都是英文的，JS技术类|
 | 碼天狗週刊 |http://weekly.codetengu.com/|台湾的，一份開發者導向的IT 技術週刊，適合所有患有資訊焦慮症、氣血循環不順以及性受挫的軟體工程師們。|
-|前端资源分享 半月刊|http://www.hacke2.cn/monthly/|每半月发布最新高质量的前端资源|
-
-
+|奇舞周刊|http://old.75team.com/weekly/|领略前端技术 阅读奇舞周刊|
 
 #### 专业博客
 
@@ -61,12 +34,29 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |[前端观察](http://www.qianduan.net/)|★★★★☆|★★★★☆|腾讯 ISUX @神飞|曾经最优秀，最近更新不频繁了|
 |[腾讯web前端 AlloyTeam 团队](http://www.alloyteam.com/)|★★★★|★★★★|[@腾讯AlloyTeam](http://t.qq.com/AlloyTeam)|来自于腾讯SNG(社交网络事业群)|
 |[张鑫旭-鑫空间-鑫生活](http://www.zhangxinxu.com/wordpress/)|★★★★☆|★★★★★|张鑫旭|重构很厉害，不少经典文章经验|
-|[ria之家](http://www.36ria.com/)|★★★★☆|★★★★☆|淘宝 @明河|#|
-|[大前端](http://www.daqianduan.com/)|★★★★☆|★★★★☆|[#](http://www.cssforest.org/blog/index.php?s=about)|#|
+
 |[CSS森林](http://www.cssforest.org/blog/)|★★★★☆|★★★★☆|[关于](http://www.cssforest.org/blog/index.php?s=about)|#|
-|[设计达人](http://www.shejidaren.com/)|★★★★☆|★★★☆☆|[#](http://www.cssforest.org/blog/index.php?s=about)|更新较频繁，但转载也较多|
+
 |[阮一峰博客](http://www.ruanyifeng.com/blog/)|★★★★☆|★★★☆☆|[#](http://www.ruanyifeng.com/about.html)|牛人一个|
-|[Be For Web - 为网而生 - 原创译文博客](http://beforweb.com/)|★★★★☆|★★★★☆|[@C7210](http://weibo.com/c7210)|关注移动应用及互联网产品、用户体验设计、前端开发|
+
+##### 企业官方博客
+
+
+|名称 |公司 | 部门|活跃度 | 简介|微博|
+| ----- | ----- | ------ | ------ |-----|-----|
+| [携程UED-携程旅行前端开发团队](http://ued.ctrip.com/blog/) | 携程网 |   UED| ★★★☆☆|携程UED,携程前端开发团队,UED,Javascript,重构,ux|#|
+| [百度FEX](http://fex.baidu.com/) | 百度 |   FEX| ★★★★☆| 百度前端团队Blog,关注前端技术，还更重视全端及全栈的能力。|#|
+|[淘宝UED](http://ued.taobao.org/blog/)|淘宝网|UED|★★★★☆|用户体验、交互设计、视觉设计、前端技术博客|[@淘宝UED](http://weibo.com/taobaoued)|
+| [腾讯Web前端 Alloy 团队 Blog](http://www.alloyteam.com/) | 腾讯 | SNG| ★★★★☆|主要负责手机QQ、QQ互联、腾讯Q+、WebQQ项目的团队。 |[alloyteam](http://weibo.com/alloyteam)|
+| [奇舞团 Blog](http://www.75team.com/) | ~| ~| ★★★★☆|~ |#|
+| [去哪儿UED](http://ued.qunar.com/) | ~| ~| ★★★★☆|~ |#|
+| [ISUX 社交用户体验设计](http://isux.tencent.com/) | 腾讯 |  ISUX| ★★★★☆|负责腾讯的社交网络相关产品的用户体验设计与研究。|#|
+| [腾讯 CDC](http://cdc.tencent.com/) | 腾讯 |  CDC| ★★★★☆| 简介（设计） |#|
+| [TID-财付通设计中心](http://tid.tenpay.com/) | 腾讯 |  TID| ★★★★☆|简介（out of date） |#|
+| [腾讯MXD移动互联网设计中心](http://mxd.tencent.com/) | 腾讯 |  MXD| ★★★★☆|简介（设计） |[@腾讯MXD](http://e.t.qq.com/tencent_mxd)|
+| [新浪UED](http://ued.sina.com.cn/) | 新浪 |   UED| ★★★★☆|简介（out of date） |[#](http://weibo.com/sudc)|
+| [网易用户体验设计中心](http://uedc.163.com/) | 网易 |   UED| ★★★★☆|简介（设计 |[#](http://weibo.com/sudc)|
+| [阿里巴巴（中国站）用户体验设计部博客](http://www.aliued.cn/) | 阿里巴巴 |   UED| ★★★★☆|简介（设计 |[@Alibaba-UED](http://weibo.com/aliued)|
 
 
 
@@ -169,56 +159,13 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |-----|-----|------|
 |V2EX|http://v2ex.com/|小众活跃社区|
 |知乎|http://www.zhihu.com/|综合问答社区|
-|前端乱炖|http://www.html-js.com/|专业的前端知识平台|
+|前端乱炖|http://www.html-js.com/|专业的前端知识平台（out of date）|
 |segmentfault|http://segmentfault.com/|综合问答社区|
-|果壳问答|http://www.guokr.com/ask/pending/|综合问答社区|
-|Ruby|http://ruby-china.org/|同 V2EX 氛围类似，不局限于Ruby|
+|Ruby|http://ruby-china.org/|同 V2EX 氛围类似，不局限于Ruby 前端东西少|
 |Node.js 中文社区|http://cnodejs.org/|Node.js 国内最活跃的社区|
-|Code Wall|https://coderwall.com/|国外技术社区|
-|前端乱炖|http://www.html-js.com/|国内前端技术社区|
-| DIV.IO | http://div.io/ | 国内前端技术社区 |
+|Code Wall|https://coderwall.com/|国外技术社区（out of date）|
+| DIV.IO | http://div.io/ | 国内前端技术社区（out of date） |
 | w3ctech | http://www.w3ctech.com/ | 国内前端技术社区，常有一些线下活动发布 |
-
-
-##### 企业官方博客
-
-在开头我的 Feedly 订阅 opml 文件里比较全面。
-
-|名称 |公司 | 部门|活跃度 | 简介|微博|
-| ----- | ----- | ------ | ------ |-----|-----|
-| [ISUX 社交用户体验设计](http://isux.tencent.com/) | 腾讯 |  ISUX| ★★★★☆|负责腾讯的社交网络相关产品的用户体验设计与研究。|#|
-| [腾讯 CDC](http://cdc.tencent.com/) | 腾讯 |  CDC| ★★★★☆| 简介 |#|
-| [腾讯Web前端 Alloy 团队 Blog](http://www.alloyteam.com/) | 腾讯 | SNG| ★★★★☆|主要负责手机QQ、QQ互联、腾讯Q+、WebQQ项目的团队。 |[alloyteam](http://weibo.com/alloyteam)|
-| [TID-财付通设计中心](http://tid.tenpay.com/) | 腾讯 |  TID| ★★★★☆|简介 |#|
-| [腾讯MXD移动互联网设计中心](http://mxd.tencent.com/) | 腾讯 |  MXD| ★★★★☆|简介 |[@腾讯MXD](http://e.t.qq.com/tencent_mxd)|
-| [人人网FED Team](http://fed.renren.com/) | 人人网 |   FED| ★★★★☆|简介 |#|
-| [微博UDC](http://udc.weibo.com/) | 新浪 |   UDC| ★★★★☆|简介 |[@微博UDC设计中心](http://weibo.com/sudc)|
-| [新浪UED](http://ued.sina.com.cn/) | 新浪 |   UED| ★★★★☆|简介 |[#](http://weibo.com/sudc)|
-| [网易用户体验设计中心](http://uedc.163.com/) | 网易 |   UED| ★★★★☆|简介 |[#](http://weibo.com/sudc)|
-| [阿里巴巴（中国站）用户体验设计部博客](http://www.aliued.cn/) | 阿里巴巴 |   UED| ★★★★☆|简介 |[@Alibaba-UED](http://weibo.com/aliued)|
-| [携程UED-携程旅行前端开发团队](http://ued.ctrip.com/blog/) | 携程网 |   UED| ★★★☆☆|携程UED,携程前端开发团队,UED,Javascript,重构,ux|#|
-| [百度FEX](http://fex.baidu.com/) | 百度 |   FEX| ★★★★☆| 百度前端团队Blog,关注前端技术，还更重视全端及全栈的能力。|#|
-|[淘宝UED](http://ued.taobao.org/blog/)|淘宝网|UED|★★★★☆|用户体验、交互设计、视觉设计、前端技术博客|[@淘宝UED](http://weibo.com/taobaoued)|
-
-
-## 书籍
-
-|名称 | 作者 | 价格 | 出版社|简评 |
-| ----- | ----- | ------ |----- |------|
-| [Web标准设计](http://book.douban.com/subject/3327829/) | 刘杰（嗷嗷） | RMB 60.00  | 清华大学出版社 |基础入门|
-| [大巧不工 : Web前端设计修炼之道](http://book.douban.com/subject/4914146/) | 赖定清 / 林坚  | RMB 59.00  | 机械工业出版社|适合入门，了解前端全局|
-|[高性能网站建设指南:前端工程师技能精髓](http://book.douban.com/subject/3132277/)|Steve Souders |RMB 35.00|电子工业出版社|能从原理层理解各种方法|
-|[高性能网站建设指南:Web开发者性能优化最佳实践](http://book.douban.com/subject/4719162/)|Steve Souders |RMB 49.80|电子工业出版社|#|
-|[Web站点优化 : Web站点优化](http://book.douban.com/subject/4124141/)|金  |RMB 55.00|#|#|
-|[Node.js开发指南](http://book.douban.com/subject/10789820/)| 郭家寶  |RMB 45.00|#|作者很牛|
-|[JavaScript高级程序设计](http://book.douban.com/subject/10546125/)| Nicholas C. Zakas   |RMB 99.00|人民邮电出版社|适合没事就翻翻|
-|[JavaScript权威指南](http://book.douban.com/subject/2228378/)| 弗拉纳根    |RMB 109.00|机械工业出版社|犀牛书|
-|[JavaScript语言精粹](http://book.douban.com/subject/3590768/)| Douglas Crockford    |RMB 35.00| 电子工业出版社|绝对经典，相信看完后，对Javascript这门语言有了重新认识，原来这个语言是这么的美丽！|
-|[深入浅出node.js](http://book.douban.com/subject/25768396/)|朴灵|RMB 69.00|人民邮电出版社|一本从前端通往全端的好书|
-|[CSS开发王](http://book.douban.com/subject/3137282/)|张亚飞|RMB 49.00|电子工业出版社|适合有一定基础后CSS进阶用|
-|[JavaScript DOM编程艺术](http://book.douban.com/subject/6038371/)|Jeremy Keith /Jeffrey Sambells|RMB 49.00|人民邮电出版社|适合Javascript入门看|
-
-
 
 =======
 
